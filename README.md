@@ -4,9 +4,12 @@ Product Proposal
 
 https://www.notion.so/InsureShield-Proposal-3f6db655a74f4a9da95b2844f47eb115
 
-Whimsical
+User Journey
 
 https://whimsical.com/insureshield-YUhts6r15M2mtMiNcj5eMz
+
+![image](https://github.com/sanidhyamathurgit/Insurance/assets/150967825/f7bf8ac9-3c2e-41cf-badc-ef0c3eba7df6)
+
 
 SQL Database - EER
 
